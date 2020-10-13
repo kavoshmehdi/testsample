@@ -1,5 +1,6 @@
 ali is s good student
-my name is ali
-
+my name is alireza
+new line
+>>>>>>> aa79abc634c48059ae737f4269e49b198cd15c65
 new line in clone
 new line in origin
